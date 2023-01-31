@@ -1,0 +1,2 @@
+# rktQueryAdapter
+Created with CodeSandbox
